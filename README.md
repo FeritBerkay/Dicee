@@ -1,6 +1,6 @@
 # Dicee
 
-![untitled(1)](https://user-images.githubusercontent.com/76204009/123949152-eb488c00-d9aa-11eb-863e-3881f3efad82.gif)
+![untitled(1)](https://user-images.githubusercontent.com/76204009/123949298-159a4980-d9ab-11eb-9f03-a3802fec6a33.gif)
 
 ## Getting Started
 
